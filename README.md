@@ -53,7 +53,7 @@ Der OER-Adventskalender ist darauf ausgelegt, täglich neue Inhalte oder kleine 
 
 1. **Repository klonen:**
    ```bash
-   git clone https://github.com/dein-benutzername/oer-adventskalender.git
+   git clone https://git.rpi-virtuell.de/Comenius-Institut/AdventskalendOER.git
    ```
    braucht's das oder geht's einfacher?
 2. **Dateien bearbeiten:** Bearbeite die `adventskalender.md`-Datei, um deine Inhalte für jedes Türchen hinzuzufügen.
