@@ -1,7 +1,6 @@
 ---
 
-# Die Metadaten im Kopf des Materials sind nicht sichtbar. Erstellt wurden sie mit dem Metadatengenerator von OERSI: https://oersi.gitlab.io/metadata-form/metadata-generator.html
-
+# Die Metadaten im Kopf des Materials sind nicht sichtbar. Erstellt wurden sie mit dem Metadatengenerator von OERSI: https://oersi.gitlab.io/metadata-form/metadata-generator.html 
 '@context': https://schema.org/
 creativeWorkStatus: Published
 type: LearningResource
@@ -22,6 +21,8 @@ datePublished: '2024-06-24'
 > :memo: Untenstehende Arbeitskopie zur kollaborativen Bearbeitung in Echtzeit auch als HedgeDoc möglich
 > :link: Kurzlink: erzeugen z.B. mit https://t1p.de/
 > evtl. noch QR-Code generieren z.B. mit https://genqrcode.com/de
+
+# neue Überschrift
 
 Kurze Inhaltsbeschreibung
 
