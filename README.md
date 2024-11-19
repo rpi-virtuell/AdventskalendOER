@@ -32,7 +32,7 @@ Hier ist eine README-Datei für dein Repository mit einem OER-Adventskalender al
 
 # OER-Adventskalender mit LIA-Script
 
-Willkommen zum **OER-Adventskalender**, einer interaktiven und frei zugänglichen Adventskalender-Vorlage, die für die Nutzung mit [LiaScript](https://liascript.github.io/) entwickelt wurde. Dieser Kalender bietet die Möglichkeit, Bildungsinhalte, kreative Ideen oder themenspezifische Inhalte in 24 Kapiteln oder "Türchen" zu präsentieren.
+Herzlich Willkommen zum **OER-Adventskalender**, einer interaktiven und frei zugänglichen Adventskalender-Vorlage, die für die Nutzung mit [LiaScript](https://liascript.github.io/) entwickelt wurde. Dieser Kalender bietet die Möglichkeit, Bildungsinhalte, kreative Ideen oder themenspezifische Inhalte in 24 Kapiteln oder "Türchen" zu präsentieren.
 
 ## Projektübersicht
 
