@@ -17,9 +17,16 @@ datePublished: '2024-11-19'
 
 ---
 
-Hier ist eine README-Datei für dein Repository mit einem OER-Adventskalender als Markdown-Vorlage für Liascript:
+Hier ist eine README-Datei für dein Repository mit einem OER-Adventskalender als Markdown-Vorlage für Liascript
 
----
+Quickstart / TLDR:
+> Um das Dokument "[AdventskalendOER.md](https://codeberg.org/Comenius-Institut/AdventskalendOER/src/branch/main/AdventskalendOER.md)" als interaktives LiaScript anzuzeigen, klicke auf den 
+> Badge:
+>
+> [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://codeberg.org/Comenius-Institut/AdventskalendOER/raw/branch/main/AdventskalendOER.md#)
+
+Erweitere mit uns das zugrunde liegende Dokument [AdventskalendOER.md](https://codeberg.org/Comenius-Institut/AdventskalendOER/src/branch/main/AdventskalendOER.md) hier im git indem du klonst, pullst und pushst 
+
 
 # OER-Adventskalender mit LIA-Script
 
