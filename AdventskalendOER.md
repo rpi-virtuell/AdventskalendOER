@@ -7,7 +7,14 @@ Willkommen zum **OER-Adventskalender**, einer interaktiven und frei zugängliche
 
 Der OER-Adventskalender ist darauf ausgelegt, täglich neue Inhalte oder kleine Lerneinheiten freizuschalten, um Lernende oder Interessierte im Advent interaktiv zu begleiten. Dieses Projekt versteht sich als freies Bildungsmaterial (OER) und lädt ein offene und kreative Lernformate miteinander weiterzuentwickeln.
 
+> Um dieses Dokument als interaktives LiaScript anzuzeigen, klicke auf den 
+> Badge:
+>
+> [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://codeberg.org/Comenius-Institut/AdventskalendOER/raw/branch/main/AdventskalendOER.md#)
+
 ## Mitmachen
+Um am AdventskalendOER mitzumachen, kannst du den [Code auf Codeberg bearbeiten](https://codeberg.org/Comenius-Institut/AdventskalendOER):
+[![](https://codeberg.org/Comenius-Institut/AdventskalendOER/raw/branch/main/mitmachen-codeberg.svg)](https://codeberg.org/Comenius-Institut/AdventskalendOER)
 
 
 
