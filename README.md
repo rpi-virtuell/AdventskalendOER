@@ -11,20 +11,11 @@ creator:
   - givenName: Vorname
     familyName: Nachname
     type: Person
-image: https://git.rpi-virtuell.de/Comenius-Institut/du-ermutigung/raw/branch/main/du-schaffst-das-uebersicht.jpg
-datePublished: '2024-06-24'
+image: https://codeberg.org/Comenius-Institut/AdventskalendOER/raw/branch/main/AdventskalendOER.png
+datePublished: '2024-11-19'
 
 
 ---
-
-> :floppy_disk:   Bearbeitungsstand immer aktuell im git speichern
-> :memo: Untenstehende Arbeitskopie zur kollaborativen Bearbeitung in Echtzeit auch als HedgeDoc möglich
-> :link: Kurzlink: erzeugen z.B. mit https://t1p.de/
-> evtl. noch QR-Code generieren z.B. mit https://genqrcode.com/de
-
-# neue Überschrift
-
-Kurze Inhaltsbeschreibung
 
 Hier ist eine README-Datei für dein Repository mit einem OER-Adventskalender als Markdown-Vorlage für Liascript:
 
@@ -50,16 +41,20 @@ Der OER-Adventskalender ist darauf ausgelegt, täglich neue Inhalte oder kleine 
 
 - [LiaScript](https://liascript.github.io/) (läuft direkt im Browser und erfordert keine zusätzliche Installation)
 
+> Um das Dokument "[AdventskalendOER.md](https://codeberg.org/Comenius-Institut/AdventskalendOER/src/branch/main/AdventskalendOER.md)" als interaktives LiaScript anzuzeigen, klicke auf den 
+> Badge:
+>
+> [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://codeberg.org/Comenius-Institut/AdventskalendOER/raw/branch/main/AdventskalendOER.md#)
+
 ### Verwendung
 
 1. **Repository klonen:**
    ```bash
-   git clone https://git.rpi-virtuell.de/Comenius-Institut/AdventskalendOER.git
+   git clone https://codeberg.org/Comenius-Institut/AdventskalendOER.git
    ```
-   braucht's das oder geht's einfacher?
-2. **Dateien bearbeiten:** Bearbeite die `adventskalender.md`-Datei, um deine Inhalte für jedes Türchen hinzuzufügen.
-3. **Vorschau anzeigen:** Öffne die Datei mit dem LiaScript Editor oder ziehe sie in einen kompatiblen Webbrowser, um eine Vorschau der interaktiven Inhalte zu sehen.
-4. **Teilen und anpassen:** Passe den Kalender für deine spezifischen Zielgruppen an oder teile ihn in deiner Lerngemeinschaft.
+2. **Dateien bearbeiten:** Bearbeite die `adventskalendOER.md`-Datei, um deine Inhalte für jedes Türchen hinzuzufügen.
+3. **Vorschau anzeigen:** Öffne die Datei mit dem [Live-LiaScript Editor](https://liascript.github.io/).
+4. **Teilen und anpassen:** Passe den Kalender an und erweitere ihn und schicke uns deinen Pull-Request, so dass der Kalender für alle reichhaltiger wird oder teile deine eigene Version in deiner Community.
 
 ## Struktur der Vorlage
 
@@ -89,10 +84,6 @@ Viel Spaß beim Erstellen und Teilen eines interaktiven OER-Adventskalenders mit
 
 ---
 
-![Bild zur Illustration CC0](URL)
-Foto: CC0 Vorname Nachname
-
-## Weitere Anregungen...
 
 
 ## Lizenz
