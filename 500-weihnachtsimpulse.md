@@ -5,6 +5,9 @@ Quickstart / TLDR:
 >
 > [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://codeberg.org/Comenius-Institut/AdventskalendOER/raw/branch/main/500-weihnachtsimpulse.md#)
 
+Um an der Liste mitzumachen, kannst du den [Code auf Codeberg bearbeiten](https://codeberg.org/Comenius-Institut/AdventskalendOER):
+[![](https://codeberg.org/Comenius-Institut/AdventskalendOER/raw/branch/main/mitmachen-codeberg.svg)](https://codeberg.org/Comenius-Institut/AdventskalendOER)
+
 Erweitere mit uns das zugrunde liegende Dokument auf Codeberg [500-weihnachtsimpulse.md](https://codeberg.org/Comenius-Institut/AdventskalendOER/src/branch/main/500-weihnachtsimpulse.md) indem du klonst, pullst und pushst 
 
 ## Beiträge 1-100
