@@ -1,4 +1,11 @@
 # 500 Advents- und Weihnachtsimpulse
+Quickstart / TLDR:
+> Um das Dokument "[500-weihnachtsimpulse.md](https://codeberg.org/Comenius-Institut/AdventskalendOER/src/branch/main/500-weihnachtsimpulse.md)" als interaktives LiaScript anzuzeigen, klicke auf den 
+> Badge:
+>
+> [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://codeberg.org/Comenius-Institut/AdventskalendOER/raw/branch/main/500-weihnachtsimpulse.md#)
+
+Erweitere mit uns das zugrunde liegende Dokument [500-weihnachtsimpulse.md(https://codeberg.org/Comenius-Institut/AdventskalendOER/src/branch/main/500-weihnachtsimpulse.md) hier im git indem du klonst, pullst und pushst 
 
 ## Beiträge 1-100
 
